@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GLEISONtiago
 - 👀 I’m interested in aprender PHP, SQL, JAVA...
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on  projes em PHP
 - 📫 How to reach me  https://www.instagram.com/gleison.arauj0/
 
 <!---
