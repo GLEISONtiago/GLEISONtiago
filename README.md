@@ -2,7 +2,7 @@
 - 👀 I’m interested in aprender PHP, SQL, JAVA...
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on  projes em PHP
-- 📫 How to reach me  instagram.com/infofast.jp
+- 📫 How to reach me  https://www.instagram.com/gleison.arauj0/
 
 <!---
 GLEISONtiago/GLEISONtiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
